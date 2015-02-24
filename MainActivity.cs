@@ -29,6 +29,11 @@ namespace TestApp24Feb
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 		}
+
+		public void TestMethod()
+		{
+			Console.WriteLine ("Test method to check commit.");
+		}
 	}
 }
 
