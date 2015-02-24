@@ -34,6 +34,11 @@ namespace TestApp24Feb
 		{
 			Console.WriteLine ("Test method to check commit.");
 		}
+
+		public void TestMethod2()
+		{
+			Console.WriteLine ("Test method to check push changes.");
+		}
 	}
 }
 
